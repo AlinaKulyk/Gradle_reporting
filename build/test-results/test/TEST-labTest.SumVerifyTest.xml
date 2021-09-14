@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="labTest.SumVerifyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-14T08:07:03" hostname="DESKTOP-I0JKDSF" time="41.302">
+  <properties/>
+  <testcase name="givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound[0](model.RozetkaFilter@765fc0f3)" classname="labTest.SumVerifyTest" time="41.302"/>
+  <system-out><![CDATA[[11:07:44 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 92.0.4515.43 (8c61b7e2989f2990d42f859cac71319137787cce-refs/branch-heads/4515@{#306}) on port 4693
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1631606820.903][WARNING]: This version of ChromeDriver has not been tested with Chrome version 93.
+сент. 14, 2021 11:07:00 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
