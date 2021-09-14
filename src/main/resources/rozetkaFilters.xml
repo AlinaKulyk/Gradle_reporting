@@ -24,10 +24,10 @@
         <brand>Fujitsu</brand>
         <sum>500000</sum>
     </rozetkaFilter>
-    <rozetkaFilter>
-        <id>5</id>
-        <productGroup>Ноутбуки</productGroup>
-        <brand>Asus</brand>
-        <sum>500000</sum>
-    </rozetkaFilter>
+<!--    <rozetkaFilter>-->
+<!--        <id>5</id>-->
+<!--        <productGroup>Ноутбуки</productGroup>-->
+<!--        <brand>Asus</brand>-->
+<!--        <sum>500000</sum>-->
+<!--    </rozetkaFilter>-->
 </rozetkaFilters>
