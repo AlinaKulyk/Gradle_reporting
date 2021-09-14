@@ -4,29 +4,29 @@
         <id>1</id>
         <productGroup>Ноутбуки</productGroup>
         <brand>HP</brand>
-        <sum>200000</sum>
+        <sum>500000</sum>
     </rozetkaFilter>
     <rozetkaFilter>
         <id>2</id>
         <productGroup>Ноутбуки</productGroup>
         <brand>Acer</brand>
-        <sum>200000</sum>
+        <sum>500000</sum>
     </rozetkaFilter>
     <rozetkaFilter>
         <id>3</id>
         <productGroup>Ноутбуки</productGroup>
         <brand>Apple</brand>
-        <sum>200000</sum>
+        <sum>500000</sum>
     </rozetkaFilter>
     <rozetkaFilter>
         <id>4</id>
         <productGroup>Ноутбуки</productGroup>
         <brand>Fujitsu</brand>
-        <sum>200000</sum>
+        <sum>500000</sum>
     </rozetkaFilter>-->
     <rozetkaFilter>
         <id>5</id>
-        <productGroup>Ноутбуки и компьютеры</productGroup>
+        <productGroup>Ноутбуки</productGroup>
         <brand>Asus</brand>
         <sum>500000</sum>
     </rozetkaFilter>

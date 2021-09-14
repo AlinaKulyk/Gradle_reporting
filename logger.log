@@ -14,3 +14,112 @@
 [11:07:48 INFO] 
 [11:08:29 INFO] Failed because of - java.lang.AssertionError: expected [true] but found [false]
 [11:08:29 INFO] =========== onFinish :-testSuiteRozetka===============
+[11:29:23 INFO] =========== onStart :-testSuiteRozetka===============
+[11:29:27 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:29:27 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:29:27 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:29:27 INFO] 
+[11:29:27 INFO] 
+[11:29:27 INFO] 
+[11:30:07 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+[11:30:11 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:30:11 INFO] 
+[11:30:11 INFO] Failed because of - java.lang.NullPointerException
+[11:30:14 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:30:14 INFO] 
+[11:30:15 INFO] Failed because of - org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//div[contains(@class, 'search-suggest')]//p[contains(@class, 'search-suggest__heading') and text()[normalize-space(.)='Перейти в категорию']]/following-sibling::ul//a[contains(@class, 'search-suggest__item-text') and text()[normalize-space(.)='Ноутбуки и компьютеры']]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I0JKDSF', ip: '192.168.0.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: driver.version: RemoteWebDriver
+[11:30:23 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+[11:30:24 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+[11:30:27 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:30:27 INFO] 
+[11:30:28 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:30:28 INFO] 
+[11:30:28 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:30:28 INFO] 
+[11:30:29 INFO] Failed because of - java.lang.NullPointerException
+[11:30:33 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:30:33 INFO] 
+[11:31:27 INFO] =========== onStart :-testSuiteRozetka===============
+[11:31:31 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:31:31 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:31:31 INFO] 
+[11:31:31 INFO] 
+[11:31:31 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:31:31 INFO] 
+[11:32:13 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+[11:32:16 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:32:16 INFO] 
+[11:32:27 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+[11:32:29 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+[11:32:30 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:32:30 INFO] 
+[11:32:45 INFO] Failed because of - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'search-suggest')]//p[contains(@class, 'search-suggest__heading') and text()[normalize-space(.)='Перейти в категорию']]/following-sibling::ul//a[contains(@class, 'search-suggest__item-text') and text()[normalize-space(.)='Ноутбуки и компьютеры']]"}
+  (Session info: chrome=93.0.4577.63)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I0JKDSF', ip: '192.168.0.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: util.WebDriverSingletone$1
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 92.0.4515.43 (8c61b7e2989f2..., userDataDir: C:\Users\kulik\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50225}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2a1a21fb3f1d7737f6a8df5c6cd23509
+*** Element info: {Using=xpath, value=//div[contains(@class, 'search-suggest')]//p[contains(@class, 'search-suggest__heading') and text()[normalize-space(.)='Перейти в категорию']]/following-sibling::ul//a[contains(@class, 'search-suggest__item-text') and text()[normalize-space(.)='Ноутбуки и компьютеры']]}
+[11:33:20 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+[11:33:24 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:33:24 INFO] 
+[11:33:24 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:33:24 INFO] 
+[11:33:24 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:33:24 INFO] 
+[11:34:28 INFO] Failed because of - java.lang.AssertionError: expected [true] but found [false]
+[11:34:28 INFO] Failed because of - java.lang.AssertionError: expected [true] but found [false]
+[11:34:28 INFO] Failed because of - java.lang.AssertionError: expected [true] but found [false]
+[11:34:31 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:34:31 INFO] 
+[11:34:31 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:34:31 INFO] 
+[11:34:47 INFO] Failed because of - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'search-suggest')]//p[contains(@class, 'search-suggest__heading') and text()[normalize-space(.)='Перейти в категорию']]/following-sibling::ul//a[contains(@class, 'search-suggest__item-text') and text()[normalize-space(.)='Ноутбуки и компьютеры']]"}
+  (Session info: chrome=93.0.4577.63)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I0JKDSF', ip: '192.168.0.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: util.WebDriverSingletone$1
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 92.0.4515.43 (8c61b7e2989f2..., userDataDir: C:\Users\kulik\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64784}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 91fc9c09b9048a056f0848ff5c1f4b03
+*** Element info: {Using=xpath, value=//div[contains(@class, 'search-suggest')]//p[contains(@class, 'search-suggest__heading') and text()[normalize-space(.)='Перейти в категорию']]/following-sibling::ul//a[contains(@class, 'search-suggest__item-text') and text()[normalize-space(.)='Ноутбуки и компьютеры']]}
+[11:35:26 INFO] Failed because of - java.lang.AssertionError: expected [true] but found [false]
+[11:35:26 INFO] =========== onFinish :-testSuiteRozetka===============
+[11:37:34 INFO] =========== onStart :-testSuiteRozetka===============
+[11:37:39 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:37:39 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:37:39 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:37:39 INFO] 
+[11:37:39 INFO] 
+[11:37:39 INFO] 
+[11:37:39 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:37:39 INFO] 
+[11:38:21 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+[11:38:25 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:38:25 INFO] 
+[11:38:33 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+[11:38:34 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+[11:38:34 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+[11:39:18 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+[11:39:22 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:39:22 INFO] 
+[11:39:22 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:39:22 INFO] 
+[11:39:22 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:39:22 INFO] 
+[11:39:22 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:39:22 INFO] 
+[11:40:04 INFO] Failed because of - java.lang.AssertionError: expected [true] but found [false]
+[11:40:08 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:40:08 INFO] 
+[11:40:18 INFO] Failed because of - java.lang.AssertionError: expected [true] but found [false]
+[11:40:19 INFO] Failed because of - java.lang.AssertionError: expected [true] but found [false]
+[11:40:19 INFO] Failed because of - java.lang.AssertionError: expected [true] but found [false]
+[11:41:01 INFO] Failed because of - java.lang.AssertionError: expected [true] but found [false]
+[11:41:02 INFO] =========== onFinish :-testSuiteRozetka===============
