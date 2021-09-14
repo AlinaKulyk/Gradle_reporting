@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testSuiteRozetka"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="260,583">
+  <properties />
+  
+  
+            <testcase name="givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound" time="55,241" classname="labTest.SumVerifyTest" />
+                <testcase name="givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound" time="42,596" classname="labTest.SumVerifyTest" />
+                <testcase name="givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound" time="54,613" classname="labTest.SumVerifyTest" />
+                <testcase name="givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound" time="55,057" classname="labTest.SumVerifyTest" />
+                <testcase name="givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound" time="53,076" classname="labTest.SumVerifyTest" />
+      
+</testsuite>

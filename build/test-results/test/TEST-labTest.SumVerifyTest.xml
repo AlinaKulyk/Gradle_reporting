@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="labTest.SumVerifyTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-09-14T08:37:39" hostname="DESKTOP-I0JKDSF" time="99.065">
+  <properties/>
+  <testcase name="givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound[0](model.RozetkaFilter@2e87e5f6)" classname="labTest.SumVerifyTest" time="42.596"/>
+  <testcase name="givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound[0](model.RozetkaFilter@342885bb)" classname="labTest.SumVerifyTest" time="54.613"/>
+  <testcase name="givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound[0](model.RozetkaFilter@92e04d2)" classname="labTest.SumVerifyTest" time="55.057"/>
+  <testcase name="givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound[0](model.RozetkaFilter@4e321123)" classname="labTest.SumVerifyTest" time="55.241"/>
+  <testcase name="givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound[1](model.RozetkaFilter@7009250f)" classname="labTest.SumVerifyTest" time="53.076"/>
+  <system-out><![CDATA[[11:37:39 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:37:39 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:37:39 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:37:39 INFO] 
+[11:37:39 INFO] 
+[11:37:39 INFO] 
+[11:37:39 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:37:39 INFO] 
+[11:38:21 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+[11:38:25 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[11:38:25 INFO] 
+[11:38:33 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+[11:38:34 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+[11:38:34 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+[11:39:18 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 92.0.4515.43 (8c61b7e2989f2990d42f859cac71319137787cce-refs/branch-heads/4515@{#306}) on port 23848
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+Starting ChromeDriver 92.0.4515.43 (8c61b7e2989f2990d42f859cac71319137787cce-refs/branch-heads/4515@{#306}) on port 25471
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Starting ChromeDriver 92.0.4515.43 (8c61b7e2989f2990d42f859cac71319137787cce-refs/branch-heads/4515@{#306}) on port 41190
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Starting ChromeDriver 92.0.4515.43 (8c61b7e2989f2990d42f859cac71319137787cce-refs/branch-heads/4515@{#306}) on port 40672
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ChromeDriver was started successfully.
+[1631608656.091][WARNING]: This version of ChromeDriver has not been tested with Chrome version 93.
+[1631608656.143][WARNING]: This version of ChromeDriver has not been tested with Chrome version 93.
+[1631608656.178][WARNING]: This version of ChromeDriver has not been tested with Chrome version 93.
+[1631608656.181][WARNING]: This version of ChromeDriver has not been tested with Chrome version 93.
+сент. 14, 2021 11:37:36 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+сент. 14, 2021 11:37:36 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+сент. 14, 2021 11:37:36 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+сент. 14, 2021 11:37:36 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 92.0.4515.43 (8c61b7e2989f2990d42f859cac71319137787cce-refs/branch-heads/4515@{#306}) on port 39931
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1631608703.306][WARNING]: This version of ChromeDriver has not been tested with Chrome version 93.
+сент. 14, 2021 11:38:23 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
