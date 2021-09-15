@@ -123,3 +123,29 @@ Session ID: 91fc9c09b9048a056f0848ff5c1f4b03
 [11:40:19 INFO] Failed because of - java.lang.AssertionError: expected [true] but found [false]
 [11:41:01 INFO] Failed because of - java.lang.AssertionError: expected [true] but found [false]
 [11:41:02 INFO] =========== onFinish :-testSuiteRozetka===============
+[12:34:28 INFO] =========== onStart :-testSuiteRozetka===============
+[12:34:34 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[12:34:34 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[12:34:34 INFO] 
+[12:34:34 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[12:34:34 INFO] 
+[12:34:34 INFO] 
+[12:34:34 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[12:34:34 INFO] 
+[12:35:21 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+[12:35:30 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+[12:35:31 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+[12:35:32 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Passed
+[12:35:38 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[12:35:38 INFO] 
+[12:35:38 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[12:35:38 INFO] 
+[12:35:38 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[12:35:38 INFO] 
+[12:35:38 INFO] givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound Started
+[12:35:38 INFO] 
+[12:36:33 INFO] Failed because of - java.lang.AssertionError: expected [true] but found [false]
+[12:36:45 INFO] Failed because of - java.lang.AssertionError: expected [true] but found [false]
+[12:36:45 INFO] Failed because of - java.lang.AssertionError: expected [true] but found [false]
+[12:36:47 INFO] Failed because of - java.lang.AssertionError: expected [true] but found [false]
+[12:36:48 INFO] =========== onFinish :-testSuiteRozetka===============
